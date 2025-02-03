@@ -16,6 +16,9 @@
 
 #pragma once
 
+#define MAC_LOCK_SCREEN_ENABLE
+#define WIN_LOCK_SCREEN_ENABLE
+
 #ifdef RGB_MATRIX_ENABLE
 /* RGB Matrix driver configuration */
 #    define DRIVER_COUNT 2
