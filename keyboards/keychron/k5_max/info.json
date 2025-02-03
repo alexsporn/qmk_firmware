@@ -14,7 +14,7 @@
         "mousekey": true,
         "dip_switch": true,
         "nkro": true,
-        "raw": true,
+        "raw": false,
         "send_string": true
     },
     "matrix_pins": {
